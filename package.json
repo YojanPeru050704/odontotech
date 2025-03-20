@@ -17,9 +17,30 @@
   "scripts": {
     "start": "cds-serve"
   },
-  "cds": {
+  "cds": {    
     "sql": {
       "native_hana_associations": false
-    }
+    },    
+    "profiles": [
+      {
+        "name": "dev",
+        "requires": {
+          "db": {
+            "kind": "sqlite",
+            "credentials": {
+              "database": "db/myClinic"
+            }
+          }
+        }
+      },
+      {
+        "name": "production",
+        "requires": {
+          "db": {
+            "kind": "hana"
+          }
+        }
+      }
+    ]
   }
 }
