@@ -1,0 +1,4 @@
+ID,code,firstName,lastName,gender,city,address,status,clinic_ID
+0fff02ad-f909-4689-bab0-f1ac63d8bb53,100,Erika ,Barreda Guzman,F,Surco,Negreiros 132,A,670740cb-4865-4108-9cb8-ef5cdf5f612d
+805a8a1f-36c4-42b9-956f-087ae4139cf2,101,Jhon,Ascencios,M,Magdalena,Brasil 1675,A,670740cb-4865-4108-9cb8-ef5cdf5f612d
+18c9e3a7-e8e2-43a4-99d9-41f8ce14e894,102,Yanelli,Abencia,F,Lince,arequipa,A,670740cb-4865-4108-9cb8-ef5cdf5f612d

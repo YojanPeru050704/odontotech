@@ -1,0 +1,4 @@
+ID,code,firstName,lastName,city,address,gender,dateBirth,consultationReason,status,clinicBranch_ID
+06249305-76b0-43ab-8d68-4fc995a88e6e,100,Alex,Aguilar Peña,Surco,Negreiros 132,M,5/4/1981,Limpieza,A,6aa840d3-0841-49ca-a85c-e8b10fb1e3dd
+0dafccf2-e85e-4bde-8bc6-42b5ac8f6f6f,101,Manuel,Gallardo,Lince,Pardo de Zela,M,5/1/1991,Dolor,A,6aa840d3-0841-49ca-a85c-e8b10fb1e3dd
+bc53b434-76be-42bd-844f-24b4842eaacf,100,Monica,Garcia,San Juan de Miraflores,Av San Juan,F,1/1/1974,,A,166e1b0f-7298-4f2a-8f99-c32d9ed71329
